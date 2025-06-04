@@ -45,8 +45,15 @@ print(agent.get_behavior_vector())
 
 ## 📄 License
 
-This project is licensed under the MIT License.  
-You are free to use, modify, and integrate NeuroATM into your own systems with attribution.
+All files in this repository — including source code, data, documentation, and associated materials —  
+are licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0),  
+unless stated otherwise.
+
+This includes all past and future additions to this repository.
+This repository and all its contents are further subject to a moral restriction clause:
+
+> No part of this work may be used for military, weapons-related, or surveillance applications.
+
 
 ---
 
